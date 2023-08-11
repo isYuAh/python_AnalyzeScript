@@ -1,0 +1,2 @@
+# python_AnalyzeScript
+利用Python写的一个分析简单剧本并让其可以游玩的程序
